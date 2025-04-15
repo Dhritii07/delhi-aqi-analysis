@@ -84,7 +84,7 @@ This project analyzes the air quality of Delhi using Big Data technologies. The 
 - Thanks to the open-source community for providing tools like PySpark and Pandas for big data analytics.
 
 ---
-**Author:** [Dhriti]  
+**Author:** Dhriti  
 🔗 **GitHub**: [Dhritii07](https://github.com/Dhritii07)  
-📧 **Contact**: 07dhriti@gmail.com 
+
 
